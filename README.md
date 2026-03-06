@@ -1,0 +1,2 @@
+# idiotice
+primeiro repositorio 
